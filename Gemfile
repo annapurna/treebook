@@ -8,6 +8,9 @@ gem 'rails', '3.2.13'
 gem 'mysql2'
 gem 'therubyracer'
 
+gem 'devise'
+
+gem 'rb-readline', '~> 0.4.2'
 
 # Gems used only for assets and not required
 # in production environments by default.

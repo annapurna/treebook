@@ -1,0 +1,1 @@
+/home/anu/Desktop/project/treebook/app/models/user.rb
